@@ -1,0 +1,17 @@
+{
+  "name": "brand-builder-platform",
+  "version": "1.0.0",
+  "description": "AI-powered personal brand building platform for coaches",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "keywords": [
+    "coaching",
+    "personal-brand",
+    "ai"
+  ]
+}
